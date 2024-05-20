@@ -12,6 +12,7 @@ sysinfo.txt
 *.unitypackage
 *.app
 *.sln
+*.csproj
 
 # Crashlytics generated file
 crashlytics-build.properties
@@ -27,4 +28,7 @@ crashlytics-build.properties
 /Logs
 /Temp
 /UserSettings
+/.vs
+/obj
 .vscode
+.vsconfig
