@@ -44,15 +44,12 @@ TagManager:
   - name: Background
     uniqueID: 3991315321
     locked: 0
-  - name: Ground
-    uniqueID: 3191407455
-    locked: 0
   - name: Decorative
-    uniqueID: 1533447719
+    uniqueID: 602862365
     locked: 0
   - name: Collidable
-    uniqueID: 2512088689
+    uniqueID: 3191407455
     locked: 0
   - name: Player
-    uniqueID: 2291735181
+    uniqueID: 1533447719
     locked: 0
